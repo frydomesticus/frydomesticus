@@ -4,9 +4,10 @@ Industrial Engineering graduate based in **Istanbul**, focused on **energy syste
 
 ## What I'm working on
 
-- 🔭 **[TR-Zero](https://github.com/frydomesticus/tr-zero)** — an agent-based decarbonization simulation engine for Türkiye's Emission Trading System, with a live interactive dashboard → [tr-zero-web.vercel.app](https://tr-zero-web.vercel.app)
-- 🎓 Thesis: *Agent-Based Modelling of Türkiye's Emission Trading System* — simulation of carbon permit trading between power plant agents (graded AA, project lead)
-- 👔 **[aski](https://github.com/frydomesticus/aski)** — an AI-powered wardrobe management PWA using Gemini Vision
+- 🔭 **[TR-Zero](https://github.com/frydomesticus/tr-zero)** — an agent-based decarbonization simulation engine for Türkiye's Emission Trading System, with a live interactive dashboard → [trzero.app](https://www.trzero.app/)
+- 🎓 Thesis: *Simulation of Agent-Based Emission Trading System of Turkey* — carbon permit trading between power plant agents (graded AA, project lead)
+- 🩺 **[Equilibrium](https://github.com/frydomesticus/diabetes-prediction)** — diabetes risk prediction on CDC BRFSS 2015 (253k records); scikit-learn pipeline + client-side React app, live → [frydomesticus.github.io/diabetes-prediction](https://frydomesticus.github.io/diabetes-prediction/)
+- 👔 **[aski](https://github.com/frydomesticus/aski)** — a smart wardrobe assistant: digitize your closet, get outfit combinations by occasion, season, and weather
 
 ## Tools I use
 
